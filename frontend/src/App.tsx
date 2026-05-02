@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { io } from 'socket.io-client';
 
-const API_URL = 'http://localhost:3000';
+const API_URL = 'https://smartfactory-dashboard.onrender.com';
 
 interface Machine {
   id: number;
@@ -91,7 +91,6 @@ function Dashboard({ onBack }: { onBack: () => void }) {
   const [lastUpdate, setLastUpdate] = useState<Date | null>(null);
 
   useEffect(() => {
-    // ✅ Socket criado DENTRO do useEffect — sem conflito no React DOM
     const socket = io(API_URL, {
       transports: ['websocket', 'polling'],
     });
