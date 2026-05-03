@@ -1,6 +1,6 @@
 # ⚙️ SmartFactory Dashboard
 
-Sistema de monitoramento industrial em tempo real, inspirado nas soluções de Indústria 4.0 desenvolvidas por empresas como a Bosch.
+Sistema de monitoramento industrial em tempo real, inspirado nas soluções de Indústria 4.0 
 
 ![SmartFactory Dashboard](https://img.shields.io/badge/Status-Online-00ff88?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-TypeScript-61DAFB?style=for-the-badge&logo=react)
