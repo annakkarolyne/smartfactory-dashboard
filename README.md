@@ -12,7 +12,7 @@ Sistema de monitoramento industrial em tempo real, inspirado nas soluções de I
 
 ## 📌 Sobre o projeto
 
-O SmartFactory Dashboard simula um sistema real de monitoramento de máquinas industriais. O operador consegue visualizar em tempo real o status de cada máquina, índice de produção, temperatura e alertas críticos — sem precisar recarregar a página.
+O SmartFactory Dashboard simula um sistema real de monitoramento de máquinas industriais. O operador consegue visualizar em tempo real o status de cada máquina, índice de produção, temperatura e alertas críticos sem precisar recarregar a página.
 
 Esse tipo de sistema é usado em fábricas modernas para aumentar a eficiência e reduzir tempo de parada das máquinas.
 
