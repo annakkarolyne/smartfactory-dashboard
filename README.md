@@ -92,3 +92,21 @@ npm start
 Acesse `http://localhost:3001` no navegador.
 
 ## 📁 Estrutura do projeto
+## 📁 Estrutura do projeto
+
+```
+smartfactory-dashboard/
+├── backend/
+│   ├── src/
+│   │   ├── routes/
+│   │   │   ├── machines.ts
+│   │   │   └── alerts.ts
+│   │   └── server.ts
+│   ├── package.json
+│   └── tsconfig.json
+└── frontend/
+    ├── src/
+    │   ├── App.tsx
+    │   └── index.css
+    └── package.json
+```
