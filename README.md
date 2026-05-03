@@ -92,7 +92,6 @@ npm start
 Acesse `http://localhost:3001` no navegador.
 
 ## 📁 Estrutura do projeto
-## 📁 Estrutura do projeto
 
 ```
 smartfactory-dashboard/
